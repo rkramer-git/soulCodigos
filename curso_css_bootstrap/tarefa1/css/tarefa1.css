@@ -1,0 +1,65 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Titillium Web', sans-serif;
+    text-align: center;
+}
+
+a {
+    text-align: left;
+}
+
+h2 {
+    color: rgb(105, 33, 33);
+    text-align: justify;
+}
+
+.h2Artigos {
+    color: white;
+    background-color: rgb(1, 53, 59);
+    text-align: center;
+    margin-top: 15px;
+}
+
+nav {
+    /* margin: 2px 0px 2px; */
+    background-color: whitesmoke;
+}
+
+h1 {
+    /* margin: 0px; */
+    background-color: rgb(133, 196, 114);
+    text-indent: 50px;
+}
+
+figcaption {
+    font-size: 10px;
+}
+
+p {
+    color: white;
+    background-color: rgb(26, 93, 102);
+    text-indent: 50px;
+    text-align: start;
+}
+
+#headerTopo {
+    background-image: linear-gradient(#018a18, rgb(9, 48, 39));
+    color: rgb(240, 129, 3);
+}
+
+#cantosArredondados1:link,
+#cantosArredondados1:visited {
+    background-color: #13704a;
+    color: white;
+    padding: 10px 10px;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 1% 2% 1% 2%;
+}
+
+#cantosArredondados1:hover,
+#cantosArredondados1:active {
+    background-color: #106429;
+}
